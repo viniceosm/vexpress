@@ -1,5 +1,5 @@
 const fs = require("fs");
-const f = {
+const util = {
     alteraLinhasArquivo: (nomeArquivo, retornoModifica) => {
         return new Promise((resolve, reject) => {
             let linesSave, stream = fs.createReadStream(nomeArquivo);
@@ -13,4 +13,4 @@ const f = {
     }
 }
 
-module.exports = f;
+module.exports = util;
