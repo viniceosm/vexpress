@@ -1,0 +1,23 @@
+{
+  "name": "vexpress",
+  "version": "1.0.1",
+  "description": "Criar um app inicial com express e alguns outros pacotes",
+  "author": {
+    "name": "Vinicius Miiller Rebello",
+    "url": "https://github.com/viniceosm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniceosm/vexpress"
+  },
+  "bin": "cli.js",
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "quick-start", "terminal"],
+  "license": "ISC"
+}
