@@ -1,6 +1,6 @@
 {
   "name": "vexpress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Criar um app inicial com express e alguns outros pacotes",
   "author": {
     "name": "Vinicius Miiller Rebello",
@@ -18,6 +18,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["express", "quick-start", "terminal"],
+  "keywords": [
+    "express",
+    "quick-start",
+    "terminal"
+  ],
   "license": "ISC"
 }
