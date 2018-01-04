@@ -22,7 +22,6 @@ router.use(cookie);
 router.use(sessionMiddleware);
 
 const cUsuarios = require('./../mongo/controller/usuarios');
-const cPosts = require('./../mongo/controller/posts');
 
 router.get('/', (req, res) => {
 	let session = req.session;

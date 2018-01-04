@@ -11,7 +11,7 @@ server.listen(PORT, function() {
 });
 
 app.set('view engine', 'jade');
-app.set('views', './app/views');
+app.set('views', './views');
 app.set('view options', { layout: false });
 app.use('/css', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
 app.use('/js', express.static(__dirname + '/public/js'));

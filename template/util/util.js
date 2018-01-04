@@ -1,6 +1,5 @@
-
-const f = {
+const util = {
     
 };
 
-module.exports = funcoes;
+module.exports = util;
