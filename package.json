@@ -1,6 +1,6 @@
 {
   "name": "vexpress",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Criar um app inicial com express e alguns outros pacotes",
   "author": {
     "name": "Vinicius Miiller Rebello",
