@@ -2,6 +2,8 @@
 
 Criar um app inicial com express e alguns outros pacotes (body-parser, bootstrap, cookie-parser, express-myconnection, express-session, jade, mongoose, multiparty e socket.io)
 
+Create an initial app with express and some other packages (body-parser, bootstrap, cookie-parser, express-myconnection, express-session, jade, mongoose, multiparty and socket.io)
+
 # Instalação
 
 ```
