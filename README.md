@@ -1,21 +1,21 @@
 # vexpress
 
-Criar um app inicial com express e alguns outros pacotes (body-parser, bootstrap, cookie-parser, express-myconnection, express-session, jade, mongoose, multiparty e socket.io)
+Criar um app inicial com [express](http://expressjs.com/pt-br/) e alguns outros pacotes ([body-parser](https://github.com/expressjs/body-parser), [bootstrap](https://getbootstrap.com/docs/3.3/), [cookie-parser](https://github.com/expressjs/cookie-parser), [express-myconnection](https://github.com/pwalczyszyn/express-myconnection), [express-session](https://github.com/expressjs/session), [jade/pug](https://github.com/pugjs/pug), [mongoose](http://mongoosejs.com/), [multiparty](https://github.com/pillarjs/multiparty) e [socket.io](https://socket.io/))
 
-Create an initial app with express and some other packages (body-parser, bootstrap, cookie-parser, express-myconnection, express-session, jade, mongoose, multiparty and socket.io)
+Create an initial app with [express](http://expressjs.com/pt-br/) and some other packages ([body-parser](https://github.com/expressjs/body-parser), [bootstrap](https://getbootstrap.com/docs/3.3/), [cookie-parser](https://github.com/expressjs/cookie-parser), [express-myconnection](https://github.com/pwalczyszyn/express-myconnection), [express-session](https://github.com/expressjs/session), [jade/pug](https://github.com/pugjs/pug), [mongoose](http://mongoosejs.com/), [multiparty](https://github.com/pillarjs/multiparty) and [socket.io](https://socket.io/))
 
-# Instalação
+# Installation
 
 ```
 npm install -g vexpress
 ```
 
-# Uso
+# How to use
 
 ```
 vexpress [your node app]
 ```
-# Estrutura pastas
+# Structure
 
 ```
 libs
